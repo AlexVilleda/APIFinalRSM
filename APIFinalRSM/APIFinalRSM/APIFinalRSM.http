@@ -1,0 +1,6 @@
+@APIFinalRSM_HostAddress = http://localhost:5178
+
+GET {{APIFinalRSM_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
