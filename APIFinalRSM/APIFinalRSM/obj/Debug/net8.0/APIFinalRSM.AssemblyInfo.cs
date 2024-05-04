@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("APIFinalRSM")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+164a6282368ba31ca9d9c4727cad8aa780bfe491")]
 [assembly: System.Reflection.AssemblyProductAttribute("APIFinalRSM")]
 [assembly: System.Reflection.AssemblyTitleAttribute("APIFinalRSM")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

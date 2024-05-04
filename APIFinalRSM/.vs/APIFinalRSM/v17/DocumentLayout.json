@@ -1,7 +1,44 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Alex Villeda\\Desktop\\Workzone\\APIFinalRSM\\APIFinalRSM\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E926161B-5E10-421E-B1B0-A54781FF6F4A}|APIFinalRSM\\APIFinalRSM.csproj|c:\\users\\alex villeda\\desktop\\workzone\\apifinalrsm\\apifinalrsm\\apifinalrsm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E926161B-5E10-421E-B1B0-A54781FF6F4A}|APIFinalRSM\\APIFinalRSM.csproj|solutionrelative:apifinalrsm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E926161B-5E10-421E-B1B0-A54781FF6F4A}|APIFinalRSM\\APIFinalRSM.csproj|c:\\users\\alex villeda\\desktop\\workzone\\apifinalrsm\\apifinalrsm\\apifinalrsm\\controllers\\salesreportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E926161B-5E10-421E-B1B0-A54781FF6F4A}|APIFinalRSM\\APIFinalRSM.csproj|solutionrelative:apifinalrsm\\controllers\\salesreportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E926161B-5E10-421E-B1B0-A54781FF6F4A}|APIFinalRSM\\APIFinalRSM.csproj|c:\\users\\alex villeda\\desktop\\workzone\\apifinalrsm\\apifinalrsm\\apifinalrsm\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E926161B-5E10-421E-B1B0-A54781FF6F4A}|APIFinalRSM\\APIFinalRSM.csproj|solutionrelative:apifinalrsm\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E926161B-5E10-421E-B1B0-A54781FF6F4A}|APIFinalRSM\\APIFinalRSM.csproj|c:\\users\\alex villeda\\desktop\\workzone\\apifinalrsm\\apifinalrsm\\apifinalrsm\\models\\adventureworks2022context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E926161B-5E10-421E-B1B0-A54781FF6F4A}|APIFinalRSM\\APIFinalRSM.csproj|solutionrelative:apifinalrsm\\models\\adventureworks2022context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E926161B-5E10-421E-B1B0-A54781FF6F4A}|APIFinalRSM\\APIFinalRSM.csproj|c:\\users\\alex villeda\\desktop\\workzone\\apifinalrsm\\apifinalrsm\\apifinalrsm\\models\\salesreportcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E926161B-5E10-421E-B1B0-A54781FF6F4A}|APIFinalRSM\\APIFinalRSM.csproj|solutionrelative:apifinalrsm\\models\\salesreportcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E926161B-5E10-421E-B1B0-A54781FF6F4A}|APIFinalRSM\\APIFinalRSM.csproj|c:\\users\\alex villeda\\desktop\\workzone\\apifinalrsm\\apifinalrsm\\apifinalrsm\\models\\salesreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E926161B-5E10-421E-B1B0-A54781FF6F4A}|APIFinalRSM\\APIFinalRSM.csproj|solutionrelative:apifinalrsm\\models\\salesreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E926161B-5E10-421E-B1B0-A54781FF6F4A}|APIFinalRSM\\APIFinalRSM.csproj|c:\\users\\alex villeda\\desktop\\workzone\\apifinalrsm\\apifinalrsm\\apifinalrsm\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E926161B-5E10-421E-B1B0-A54781FF6F4A}|APIFinalRSM\\APIFinalRSM.csproj|solutionrelative:apifinalrsm\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E926161B-5E10-421E-B1B0-A54781FF6F4A}|APIFinalRSM\\APIFinalRSM.csproj|c:\\users\\alex villeda\\desktop\\workzone\\apifinalrsm\\apifinalrsm\\apifinalrsm\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E926161B-5E10-421E-B1B0-A54781FF6F4A}|APIFinalRSM\\APIFinalRSM.csproj|solutionrelative:apifinalrsm\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E926161B-5E10-421E-B1B0-A54781FF6F4A}|APIFinalRSM\\APIFinalRSM.csproj|c:\\users\\alex villeda\\desktop\\workzone\\apifinalrsm\\apifinalrsm\\apifinalrsm\\migrations\\20240504081401_a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E926161B-5E10-421E-B1B0-A54781FF6F4A}|APIFinalRSM\\APIFinalRSM.csproj|solutionrelative:apifinalrsm\\migrations\\20240504081401_a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +46,120 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Alex Villeda\\Desktop\\Workzone\\APIFinalRSM\\APIFinalRSM\\APIFinalRSM\\Program.cs",
+              "RelativeDocumentMoniker": "APIFinalRSM\\Program.cs",
+              "ToolTip": "C:\\Users\\Alex Villeda\\Desktop\\Workzone\\APIFinalRSM\\APIFinalRSM\\APIFinalRSM\\Program.cs",
+              "RelativeToolTip": "APIFinalRSM\\Program.cs",
+              "ViewState": "AQIAAAAAAACAmpmZmZkuwA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T07:36:16.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdventureWorks2022Context.cs",
+              "DocumentMoniker": "C:\\Users\\Alex Villeda\\Desktop\\Workzone\\APIFinalRSM\\APIFinalRSM\\APIFinalRSM\\Models\\AdventureWorks2022Context.cs",
+              "RelativeDocumentMoniker": "APIFinalRSM\\Models\\AdventureWorks2022Context.cs",
+              "ToolTip": "C:\\Users\\Alex Villeda\\Desktop\\Workzone\\APIFinalRSM\\APIFinalRSM\\APIFinalRSM\\Models\\AdventureWorks2022Context.cs",
+              "RelativeToolTip": "APIFinalRSM\\Models\\AdventureWorks2022Context.cs",
+              "ViewState": "AQIAAAAAAACAl5mZmdkhwA0AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T06:49:40.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Alex Villeda\\Desktop\\Workzone\\APIFinalRSM\\APIFinalRSM\\APIFinalRSM\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "APIFinalRSM\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Alex Villeda\\Desktop\\Workzone\\APIFinalRSM\\APIFinalRSM\\APIFinalRSM\\appsettings.Development.json",
+              "RelativeToolTip": "APIFinalRSM\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-04T05:01:33.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Alex Villeda\\Desktop\\Workzone\\APIFinalRSM\\APIFinalRSM\\APIFinalRSM\\Startup.cs",
+              "RelativeDocumentMoniker": "APIFinalRSM\\Startup.cs",
+              "ToolTip": "C:\\Users\\Alex Villeda\\Desktop\\Workzone\\APIFinalRSM\\APIFinalRSM\\APIFinalRSM\\Startup.cs",
+              "RelativeToolTip": "APIFinalRSM\\Startup.cs",
+              "ViewState": "AQIAAAUAAADgmZmZmZkuwBMAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T04:31:11.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Alex Villeda\\Desktop\\Workzone\\APIFinalRSM\\APIFinalRSM\\APIFinalRSM\\appsettings.json",
+              "RelativeDocumentMoniker": "APIFinalRSM\\appsettings.json",
+              "ToolTip": "C:\\Users\\Alex Villeda\\Desktop\\Workzone\\APIFinalRSM\\APIFinalRSM\\APIFinalRSM\\appsettings.json",
+              "RelativeToolTip": "APIFinalRSM\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-03T06:44:17.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SalesReportController.cs",
+              "DocumentMoniker": "C:\\Users\\Alex Villeda\\Desktop\\Workzone\\APIFinalRSM\\APIFinalRSM\\APIFinalRSM\\Controllers\\SalesReportController.cs",
+              "RelativeDocumentMoniker": "APIFinalRSM\\Controllers\\SalesReportController.cs",
+              "ToolTip": "C:\\Users\\Alex Villeda\\Desktop\\Workzone\\APIFinalRSM\\APIFinalRSM\\APIFinalRSM\\Controllers\\SalesReportController.cs",
+              "RelativeToolTip": "APIFinalRSM\\Controllers\\SalesReportController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAzwCAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T05:11:25.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240504081401_A.cs",
+              "DocumentMoniker": "C:\\Users\\Alex Villeda\\Desktop\\Workzone\\APIFinalRSM\\APIFinalRSM\\APIFinalRSM\\Migrations\\20240504081401_A.cs",
+              "RelativeDocumentMoniker": "APIFinalRSM\\Migrations\\20240504081401_A.cs",
+              "ToolTip": "C:\\Users\\Alex Villeda\\Desktop\\Workzone\\APIFinalRSM\\APIFinalRSM\\APIFinalRSM\\Migrations\\20240504081401_A.cs",
+              "RelativeToolTip": "APIFinalRSM\\Migrations\\20240504081401_A.cs",
+              "ViewState": "AQIAABwAAAAANDMzMzP3vwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T08:14:02.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SalesReportContext.cs",
+              "DocumentMoniker": "C:\\Users\\Alex Villeda\\Desktop\\Workzone\\APIFinalRSM\\APIFinalRSM\\APIFinalRSM\\Models\\SalesReportContext.cs",
+              "RelativeDocumentMoniker": "APIFinalRSM\\Models\\SalesReportContext.cs",
+              "ToolTip": "C:\\Users\\Alex Villeda\\Desktop\\Workzone\\APIFinalRSM\\APIFinalRSM\\APIFinalRSM\\Models\\SalesReportContext.cs",
+              "RelativeToolTip": "APIFinalRSM\\Models\\SalesReportContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T08:08:20.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SalesReport.cs",
+              "DocumentMoniker": "C:\\Users\\Alex Villeda\\Desktop\\Workzone\\APIFinalRSM\\APIFinalRSM\\APIFinalRSM\\Models\\SalesReport.cs",
+              "RelativeDocumentMoniker": "APIFinalRSM\\Models\\SalesReport.cs",
+              "ToolTip": "C:\\Users\\Alex Villeda\\Desktop\\Workzone\\APIFinalRSM\\APIFinalRSM\\APIFinalRSM\\Models\\SalesReport.cs",
+              "RelativeToolTip": "APIFinalRSM\\Models\\SalesReport.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T04:17:21.923Z"
             }
           ]
         }
